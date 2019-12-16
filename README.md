@@ -1,3 +1,6 @@
+> **NOTE:<br/>**
+> This project is no longer maintained
+
 # JavaScript
 JavaScript scripts used in the Sauce Labs DOCS wiki
 
